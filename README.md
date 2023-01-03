@@ -13,3 +13,8 @@
 MY STRENGTH IS AM A FAST LEARNER AND I CAN WORK WITH DIFFERENT GROUPS OF PEOPLE OR TEAMS. I PLAN TO FOCUS ON ARTIFICIAL INTELLIGENCE.</p>
 
 <hr />
+
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ashitizn21&show_icons=true&theme=radical" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitizn21&theme=tokyonight" alt="mystreak"/>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashitizn21&layout=compact&bg_color=212F3C&text_color=F8C471" />
+<br>
