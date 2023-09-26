@@ -48,7 +48,6 @@ MY STRENGTH IS AM A FAST LEARNER AND I CAN WORK WITH DIFFERENT GROUPS OF PEOPLE 
   <a href="https://numpy.org/"><img src="https://numpy.org/images/logo.svg" height="30" /></a>
   <a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/images/logo2.svg" height="30" /></a>
   <a href="https://scikit-learn.org/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" /></a>
-  <a href="https://scipy.org"><img src="https://scipy.org/images/logo.svg" height="30" /></a>
   <a href="https://linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" /></a> &nbsp;&nbsp;
  </p>
  
@@ -56,8 +55,8 @@ MY STRENGTH IS AM A FAST LEARNER AND I CAN WORK WITH DIFFERENT GROUPS OF PEOPLE 
  <p align="center">
 <a href="mailto:ashenafizenebe19@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://t.me/sh_zn21"><img src="https://telegram.org/img/website_icon.svg" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ashenafi-zenebe"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/sh_zn21"><img src="https://telegram.org/img/website_icon.svg" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
